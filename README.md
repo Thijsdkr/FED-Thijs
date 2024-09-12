@@ -54,7 +54,14 @@ hier de naam van de pagina
 
 ### Bevindingen
 
-Lijst met je bevindingen die in de test naar voren kwamen:
+ELASTIEKJES en SCHOK APPERAAT
+
+Ik begon met de elastiekjes om mijn vingers , ik had ze op willekeurige volgorde om mijn vingers geknoopt en merkte al snel dat om te scrollen je 2 vingers nodig hebt op macbook, en mijn vingers konden niet echt lekker naast elkaar , dus vaak klikte ik verkeerde dingen aan of swipde ik het perongeluk weg. Vooral het perongeluk op dingen klikken gebeurde vaak omdat ik niet goed kon klikken. Wel vond ik de website ruim opgezet en als het lukte om te klikken klikte je dus wel raak. Maar ik kon wel goed de website navigeren .
+Vervolgens heb ik de parkenson simulator op mijn arm toegevoegd , dit viel erg tegen aangezien ik bijna niet in staat was om te typen, gelukkig zijn er niet echt dingen waar je moet typen, alles is goed bereikbaar door de navigatie menu's.
+
+VOICE OVER
+
+De voice over functie werkt goed , de tekst en knoppen worden verteld. Ook de foto's van de auto's en de preciese kleur ervan wordt met de gebruiker gecommuniceerd. Alleen probeerde ik op het kruisje in de hoek te klikken en hier kon ik alleen met mijn muis naartoe navigeren omdat de voice over het kruisje oversloeg. Ook is de carrousel die zich in het home scherm bevind erg moeilijk te navigeren.
 
 </details>
 
@@ -65,7 +72,7 @@ Lijst met je bevindingen die in de test naar voren kwamen:
 
 ### de hele pagina:
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown1" width="375px" alt="breakdown van de hele pagina">
 
 ### dynamisch deel (bijv menu):
 
@@ -84,17 +91,32 @@ Lijst met je bevindingen die in de test naar voren kwamen:
 
 ### Stand van zaken
 
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Bij het opbouwen van de website in html wist ik soms niet of ik UL/LI moest gebruiken of dat ik van bijvoorbeeld een foto collage articles moest maken.
+<img src="readme-images/vraag">
 
 ### Agenda voor meeting
 
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| -------------- | ------------------ | ------------ | ---------------- |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| student 1      | student 2          | student 3    | student 4 |
+| -------------- | ------------------ | ------------ | --------- |
+| dit bespreken  | en dit             | en ik dit    |           |
+| en dat ook nog | dit als er tijd is | nog een punt |           |
+| ...            | ...                | ...          |           |
+
+Student (thijs) 1: Ik ind het nog moeilijk wanneer ik unordered lists of juist articles moet maken.
+
+Ook heb ik zoveel sections en UL's dat ik niet echt goed weet hoe ik nu een bepaalde ul en Li aanspreek
+
+Moet alles werken? dus elke knop en uitschuif balk etc.
+
+Hoe blijft mijn tekst onder een carrousel?
+
+Student 2:
+
+Student 3:
+
+Student 4:
 
 ### Verslag van meeting
 
