@@ -76,7 +76,7 @@ De voice over functie werkt goed , de tekst en knoppen worden verteld. Ook de fo
 
 ### dynamisch deel (bijv menu):
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/dynamisch.pdf" width="375px" alt="breakdown van een dynamisch deel">
 
 ### wellicht nog een dynamisch deel (bijv filter):
 
@@ -120,12 +120,10 @@ Student 4:
 
 ### Verslag van meeting
 
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- punt 1: Het is nu duidelijk wanneer ik een lijst moet gebruiken op mijn website, op veel plekken waar ik articles had gebruikt had ik beter UL/LI's kunnen gebruiken
+- punt 2: Door bijvoorbeeld section ul li:first child / nth-child(2) te doen kun je gemakkelijk bepaalde UL's en LI slecteren
+- punt 3: Als ik bepaalde dingen laat werken zal dat natuurlijk meewerken aan mijn surface plane design
+- punt 4: ik heb nu een website waar ik gemakkelijk de carrousel kan maken.
 
 </details>
 
